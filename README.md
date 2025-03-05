@@ -43,7 +43,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/Card_Deck.git
+git clone https://github.com/krrishsinha20/Card-Deck-Program-Description/tree/b2c84be6afd1bf14e3b5b8b7ec561cfb89d0a4ff
 Compile and run the program:
 sh
 Copy
@@ -53,7 +53,7 @@ java Main
 Contribution
 Each function and class is committed separately following best coding practices.
 Comments are added to explain the logic in each method.
-Repository Link
+https://github.com/krrishsinha20/Card-Deck-Program-Description/tree/b2c84be6afd1bf14e3b5b8b7ec561cfb89d0a4ff
 GitHub Repository
 
 
